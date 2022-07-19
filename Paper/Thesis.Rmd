@@ -1,31 +1,24 @@
 ---
 title: "Quantitative genetics of health-related traits in a small-scale society"
-author: "Jannik Briand"
+author: Jannik Briand
+affiliation: University of Zurich
 # date: "05/07/2022"
-output: html_document
+output: pdf_document
+fontfamily: libertine
+fontsize: 11pt
 ---
+
+___
+
 
 Understanding the genetic and environmental bases of complex physical and behavioral traits is crucial for developing effective interventions to promote health-related outcomes. Quantitative genetic models are widely used to address this challenge and estimate the heritable basis of complex human phenotypes. However, recent work shows that a failure to account for how local environments shape genetic expression, i.e. gene-by-environment interaction or phenotypic plasticity, has lead previous studies to systematically overestimate the genetic bases of human traits. In this project, we will apply novel models that directly estimate environmental effects on gene expression to re-evaluate the heritability of health traits, drawing on long-term field data collected in a small-scale human society.
 
-# 1.0 Introduction
+___
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+# Introduction
 
-```{r cars}
-summary(cars)
-```
-
-### Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Test test
 
 # Review of the Literature
 
